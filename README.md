@@ -11,3 +11,10 @@ To view an example game outlining the various features of CGV:
 3. Wait for the PGN to be processed by the server and then scroll-down to see the results.
 
 <img height="50%" src="https://github.com/Xen0phobe/Chess-Game-Visualizer/blob/master/readme-resources/ShamefulAssuredFallowdeer-size_restricted.gif?raw=true"></img>
+
+## Features
+* Capable of parsing unlimited nested deviations (please don't crash my server).
+* Deviations can be toggled between indented pictures or flat text at the user's discretion.
+* Command Strings (arrows, circles, evaluations, and clocks) and Numeric Annotation Glyphs (NAGs) are automatically rendered.
+* Graphics can be toggled to better facilitate printing in black-and-white.
+* Lichess URL's for studies and games are automatically fetched and the PGN parsed.
