@@ -13,8 +13,11 @@ To view an example game outlining the various features of CGV:
 <img height="50%" src="https://github.com/Xen0phobe/Chess-Game-Visualizer/blob/master/readme-resources/ShamefulAssuredFallowdeer-size_restricted.gif?raw=true"></img>
 
 ## Features
-* Capable of parsing unlimited nested deviations (please don't crash my server).
-* Deviations can be toggled between indented pictures or flat text at the user's discretion.
-* Command Strings (arrows, circles, evaluations, and clocks) and Numeric Annotation Glyphs (NAGs) are automatically rendered.
-* Graphics can be toggled to better facilitate printing in black-and-white.
-* Lichess URL's for studies and games are automatically fetched and the PGN parsed.
+* Paste raw PGN and get pictures of the game.
+* Retrieve and render Lichess game and study chapter URLs automatically.
+* Toggle deviations between indented pictures or flat text.
+* Toggle graphics and highlights for better balack-and-white printing.
+* Render Command Strings (arrows, circles, evaluations, and clocks) and Numeric Annotation Glyphs (NAGs) automatically.
+
+## Partnerships
+Want to integrate CGV into your chess website for free, or think your faviorte chess website should be using CGV? Send me an <a href="mailto:taylor.shockey@taylors.hockey?subject=Chess%20Game%20Visualizer%20Partnership" target="_blank">email</a> with your name and website.
